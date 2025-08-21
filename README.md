@@ -8,4 +8,4 @@ Saya adalah seorang Tech enthusiast dengan minat yang besar pada industri teknol
 - Saya sekarang mempelajari GO, Python, React-JS, NodeJS, PHP, Vue.Js dan Web Development
 - Saya Mampu dalam berbahasa inggris 
 - How to reach me:
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:fauzyasn@gmail.com) [![Discord](https://img.shields.io/badge/Discord-Uzyy-5865F2?logo=discord&style=for-the-badge)](https://discord.gg/TeT6bUPx)
+- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:fauzyasn@gmail.com) 
