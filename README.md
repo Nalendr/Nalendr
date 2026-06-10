@@ -10,4 +10,4 @@ Saya adalah seorang Tech enthusiast dengan minat yang besar pada industri teknol
 - How to reach me:
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:fauzyasn@gmail.com)
 
-- (https://github-readme-stats.vercel.app/api?username=Nalendr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nalendr&show_icons=true&theme=radical)
