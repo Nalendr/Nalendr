@@ -1,12 +1,15 @@
-# Hallo, Saya Fauzya Shubhi Nalendrasidi! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
-Saya adalah seorang Tech enthusiast dengan minat yang besar pada industri teknologi. Saya memiliki keterampilan dalam bahasa pemrograman dasar dan terus mengeksplorasi dunia inovasi serta solusi digital yang terus berkembang. Saat ini, saya sedang menempuh studi di Universitas Buana Perjuangan Karawang.
+###  Hello, I'm Fauzya Shubhi Nalendrasidi!
 
+I am an information technology undergraduate student at Universitas Buana Perjuangan Karawang with a strong passion for Software Engineering, Artificial Intelligence, and Industrial IoT technologies. I have experience in system development, building automated data pipelines, and managing robust IT infrastructure. Currently, I am focused on exploring lightweight Machine Learning implementations and designing robust digital architecture solutions.
 
-## **About Me**
-![Profile views](https://komarev.com/ghpvc/?username=Nalendr&color=brightgreen)
-- Saya saat ini sedang mengerjakan proyek pribadi saya
-- Saya sekarang mempelajari GO, Python, React-JS, NodeJS, PHP, Vue.Js dan Web Development
-- How to reach me:
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:fauzyasn@gmail.com)
+### 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nalendr&show_icons=true&theme=radical)
+**Currently learning:** Securing IoT environments against network anomalies using optimized, lightweight Machine Learning models[cite: 1] and applied Data Science using Pandas and Seaborn[cite: 1].
+**Looking to collaborate on:** Fullstack Development projects (PHP/Laravel/Vue)[cite: 1] or Python-based network architecture automation[cite: 1].
+**Ask me about:** Python, Laravel, System Integration, and Computer Networking[cite: 1].
+**How to reach me:** [fauzyasn@gmail.com](mailto:fauzyasn@gmail.com)| [LinkedIn](www.linkedin.com/in/nalendrs)
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C++, Go, PHP, JavaScript, SQL
+* **Frameworks & Libraries:** Laravel, Node.JS, Vue, Pandas, NumPy, OpenCV
+* **Infrastructure & Hardware:** Docker, Git, Linux (Ubuntu/Kali), Microcontrollers (Arduino/ESP32)
