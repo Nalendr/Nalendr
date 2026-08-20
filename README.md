@@ -4,9 +4,12 @@ I am an information technology undergraduate student at Universitas Buana Perjua
 
 ### 👨‍💻 About Me
 
-**Currently learning:** Securing IoT environments against network anomalies using optimized, lightweight Machine Learning models and applied Data Science using Pandas and Seaborn[cite: 1].
+**Currently learning:** Securing IoT environments against network anomalies using optimized, lightweight Machine Learning models and applied Data Science using Pandas and Seaborn.
+
 **Looking to collaborate on:** Fullstack Development projects (PHP/Laravel/Vue) or Python-based network architecture automation.
+
 **Ask me about:** Python, Laravel, System Integration, and Computer Networking.
+
 **How to reach me:** [fauzyasn@gmail.com](mailto:fauzyasn@gmail.com)| [LinkedIn](www.linkedin.com/in/nalendrs)
 
 ### 🛠️ Tech Stack & Tools
