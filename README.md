@@ -6,7 +6,6 @@ Saya adalah seorang Tech enthusiast dengan minat yang besar pada industri teknol
 ![Profile views](https://komarev.com/ghpvc/?username=Nalendr&color=brightgreen)
 - Saya saat ini sedang mengerjakan proyek pribadi saya
 - Saya sekarang mempelajari GO, Python, React-JS, NodeJS, PHP, Vue.Js dan Web Development
-- Saya Mampu dalam berbahasa inggris 
 - How to reach me:
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:fauzyasn@gmail.com)
 
