@@ -16,3 +16,4 @@ I am an information technology undergraduate student at Universitas Buana Perjua
 * **Languages:** Python, C++, Go, PHP, JavaScript, SQL
 * **Frameworks & Libraries:** Laravel, Node.JS, Vue, Pandas, NumPy, OpenCV
 * **Infrastructure & Hardware:** Docker, Git, Linux (Ubuntu/Kali), Microcontrollers (Arduino/ESP32)
+![Profile views](https://komarev.com/ghpvc/?username=Nalendr&color=brightgreen)
